@@ -29,6 +29,8 @@ This list includes:
 - [JavaScript to Know for React (Kent C. Dodds)](https://kentcdodds.com/blog/javascript-to-know-for-react)
 - [React Absolute Path Imports (Medium)](https://medium.com/@pushplaybang/absolutely-dont-use-relative-paths-imports-in-your-vite-react-project-c8593f93bbea)
 - [Avoid Render-Blocking JavaScript (Roadmap.sh Guide)](https://roadmap.sh/guides/avoid-render-blocking-javascript-with-async-defer)
+- [Master React by building 25 react projects](https://www.youtube.com/watch?si=HdzKOfR9vxvhD-SZ&v=5ZdHfJVAY-s&feature=youtu.be)
+
 
 ---
 
@@ -49,6 +51,7 @@ This list includes:
 
 - [Start building with Next.js](https://nextjs.org/learn)
 - [Next.js Image Component – Art Direction](https://nextjs.org/docs/app/api-reference/components/image#art-direction)
+- [NextJs concepts visually explaind](https://www.youtube.com/@Delba)
 
 ---
 
